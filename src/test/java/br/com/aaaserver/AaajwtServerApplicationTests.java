@@ -1,4 +1,4 @@
-package com.example.aaajwtserver;
+package br.com.aaaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

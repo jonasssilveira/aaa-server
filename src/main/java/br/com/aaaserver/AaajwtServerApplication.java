@@ -1,4 +1,4 @@
-package com.example.aaajwtserver;
+package br.com.aaaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
